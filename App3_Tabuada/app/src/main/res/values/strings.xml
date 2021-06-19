@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App3_Tabuada</string>
+    <string name="stringNumber">Digite um número:</string>
+    <string name="stringTabuada">Tabuada:</string>
+    <string name="stringCalcular">Calcular</string>
+    <string name="stringExemplo">Exemplo: 5</string>
+</resources>
