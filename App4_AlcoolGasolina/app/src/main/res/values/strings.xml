@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App4_AlcoolGasolina</string>
+    <string name="strInfoImg">Saiba qual combustível está compensando agora</string>
+    <string name="strAlcool">Digite o preço do litro do Álcool:</string>
+    <string name="hintAlcool">Exemplo: 1.92</string>
+    <string name="strGasolina">Digite o preço do litro da Gasolina:</string>
+    <string name="hintGasolina">Exemplo: 2.40</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="strResultado">Descubra qual o melhor clicando acima</string>
+
+</resources>

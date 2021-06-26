@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App5_TirarFoto</string>
+    <string name="txtCadastro">Cadastre-se</string>
+    <string name="txtNome">Digite seu nome:</string>
+    <string name="hintNome">Nome</string>
+    <string name="txtBtnFoto">Tirar Foto</string>
+    <string name="txtBtnSalvar">Salvar</string>
+    <string name="txtExemplo">Exemplo</string>
+</resources>
