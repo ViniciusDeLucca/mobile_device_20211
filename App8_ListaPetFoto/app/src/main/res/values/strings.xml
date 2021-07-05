@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App8_ListaPetFoto</string>
+    <string name="pet_name">Nome do pet</string>
+    <string name="pet_race">Raça</string>
+</resources>

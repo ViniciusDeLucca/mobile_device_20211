@@ -4,12 +4,10 @@
     <string name="strExperiencia">Experiencia</string>
     <string name="strFormacao">Formação</string>
     <string name="strObjetivo">Objetivo</string>
-    <string name="txtSobre">Eu sou o cara, ja capotei um celta com 10 pessoas, sou estudante na Fatec de Praia
-    Grande e tenho 20 anos.</string>
-    <string name="txtFormacao">Sou Sênior em servidores de minecraft, em estratégias de equipe e no amplo uso de limpeza.</string>
+    <string name="txtSobre">Meu nome é Vinicius, sou estudante, tenho 20 anos e gosto de andar de bicicleta.</string>
+    <string name="txtFormacao">Sou júnior no uso de servidores e aprendiz em estratégias para equipes.</string>
     <string name="txtExperiencia">Voluntário no diretório acadêmico, ajudante de confeiteiro por 6 anos
-    e trabalho com trabalho doméstico por pelo menos 13 anos.</string>
-    <string name="txtObjetivo">Meu objetivo é ter dinheiro para ajudar minha família, montar a minha própria e viver
-    tranquilamente na minha casa com meus amigos aos sábados fazendo um churrasco com pagode e samba.</string>
+    e trabalho com trabalho doméstico por pelo menos 7 anos.</string>
+    <string name="txtObjetivo">Meu objetivo é trabalhar com Tecnologia e com teatro.</string>
 
 </resources>
