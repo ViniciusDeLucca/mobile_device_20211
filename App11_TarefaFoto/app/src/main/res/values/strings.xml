@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+    <string name="titulo_lista">Lista de Tarefas</string>
+    <string name="titulo_cadastro">Cadastro de Tarefas</string>
+    <string name="tarefa">Tarefa</string>
+    <string name="salvar">Salvar</string>
+    <string name="digite">Digite a sua tarefa aqui.</string>
+</resources>

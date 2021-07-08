@@ -1,0 +1,44 @@
+[33mcommit 61646bd702da6025bc1f62c618361ec11553aae2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vinicius De Lucca <viniciusdelucca@hotmail.com>
+Date:   Mon Jul 5 18:16:41 2021 -0300
+
+    Commiting some apps
+
+[33mcommit ad3bd10037c387d9673efa6b6916090d7c4491b4[m
+Author: Vinicius De Lucca <viniciusdelucca@hotmail.com>
+Date:   Fri Jun 25 22:59:53 2021 -0300
+
+    Uploading apps 4, 5 and 6
+
+[33mcommit 4e68f108401d86fc149565919dce79d978b6be06[m
+Merge: 7fff7a3 3f1fa94
+Author: Vinicius De Lucca <viniciusdelucca@hotmail.com>
+Date:   Thu Jun 24 23:46:30 2021 -0300
+
+    Merge branch 'main' of https://github.com/ViniciusDeLucca/mobile_device_20211
+
+[33mcommit 3f1fa94aa45829ff842cc22cb9c06f27e248b3a9[m
+Author: Vinicius de Lucca <58010973+ViniciusDeLucca@users.noreply.github.com>
+Date:   Thu Jun 24 23:35:53 2021 -0300
+
+    Delete App1_HelloWorld.rar
+
+[33mcommit 5d03e51bfbffe4204a6d21e1d4099d04af01157e[m
+Author: Vinicius de Lucca <58010973+ViniciusDeLucca@users.noreply.github.com>
+Date:   Thu Jun 24 19:48:44 2021 -0300
+
+    App1
+    
+    Testando commit como rar
+
+[33mcommit 7fff7a3bee60dd6233cfdd7387a00f3588e89880[m
+Author: Vinicius De Lucca <viniciusdelucca@hotmail.com>
+Date:   Sat Jun 19 15:44:55 2021 -0300
+
+    commit 1
+
+[33mcommit 3da6e8e7e65c1d93a37068616d85b92704d50886[m
+Author: Vinicius de Lucca <58010973+ViniciusDeLucca@users.noreply.github.com>
+Date:   Thu Jun 17 19:46:32 2021 -0300
+
+    Initial commit
