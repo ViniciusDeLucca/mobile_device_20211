@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App14_ShortBioFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bio">Short Bio</string>
+    <string name="sobre">Meu nome é Vinicius, sou estudante, tenho 20 anos e gosto de andar de bicicleta.</string>
+    <string name="formacao">Sou júnior no uso de servidores e aprendiz em estratégias para equipes.</string>
+    <string name="experiencia">Voluntário no diretório acadêmico, ajudante de confeiteiro por 6 anos
+    e trabalho com trabalho doméstico por pelo menos 7 anos.</string>
+    <string name="objetivo">Meu objetivo é trabalhar com Tecnologia e com teatro.</string>
+</resources>
