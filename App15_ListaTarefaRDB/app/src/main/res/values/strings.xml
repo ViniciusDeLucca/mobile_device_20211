@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">App15_ListaTarefaRDB</string>
+    <string name="textView">Fazer o TP de Android</string>
+    <string name="hintEdit" tools:ignore="TypographyEllipsis">Digite sua Tarefa...</string>
+</resources>
